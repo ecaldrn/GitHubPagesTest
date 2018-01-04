@@ -3,10 +3,6 @@ div	{
 	border: 1px solid aquamarine;
 	padding: 30px;
 }
-body {
-	padding: 30px;
-	font-family: Roboto;
-}
 
 a:hover {
 	font-size: 20px;
@@ -14,4 +10,10 @@ a:hover {
 
 h1, h2 {
 	font-family: 'Bitter' ,sans-serif ;
+}
+
+body, address {
+	padding: 30px;
+	font-family: Roboto;
+
 }
